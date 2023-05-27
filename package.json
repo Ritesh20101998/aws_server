@@ -1,0 +1,25 @@
+{
+  "name": "aws_server",
+  "version": "1.0.0",
+  "description": "aws practise",
+  "main": "inde.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritesh20101998/aws_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritesh20101998/aws_server/issues"
+  },
+  "homepage": "https://github.com/Ritesh20101998/aws_server#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
